@@ -17,6 +17,24 @@
    "alpha": false
   }
  },
+ "hero-front": {
+  "hash": "50f5a66131586e62",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1024,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
  "band-still": {
   "hash": "f207c9b6b39dddbe",
   "widths": [
@@ -269,6 +287,168 @@
    "alpha": true
   }
  },
+ "hand-grasp": {
+  "hash": "db856b09bcf7f765",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "hand-push": {
+  "hash": "4acbb0646e31de65",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "mother-four-sons": {
+  "hash": "3da57f7ae2ab4fb8",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1024,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": false
+  }
+ },
+ "training-sila": {
+  "hash": "b4b63cd1f29982bf",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "training-samadhi": {
+  "hash": "fe1d83bc7f5baac3",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "training-panna": {
+  "hash": "68d063136d02f6b4",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "factor-body": {
+  "hash": "41b2d0d4426c1092",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "factor-mind": {
+  "hash": "deeb84ed32b1a823",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "factor-world": {
+  "hash": "9986d5b32cf5a296",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
  "lotus-1": {
   "hash": "0b4a58d6cda3d110",
   "widths": [
@@ -331,6 +511,114 @@
     960
    ],
    "alpha": false
+  }
+ },
+ "practice-sit": {
+  "hash": "fdfe7d96e7b8f3c5",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1024,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": false
+  }
+ },
+ "tex-paper": {
+  "hash": "ee5a5cd0e3d320ce",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": false
+  }
+ },
+ "tex-paper-dark": {
+  "hash": "63fc77ea65b662de",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": false
+  }
+ },
+ "ink-splash-1": {
+  "hash": "1fda1da3bc6bf11a",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "ink-splash-2": {
+  "hash": "03d77254a9bfa74d",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "brush-stroke": {
+  "hash": "4ee9f0b54f7dd5b9",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1024,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
   }
  },
  "poster-original": {
