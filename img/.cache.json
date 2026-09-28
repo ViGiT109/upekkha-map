@@ -125,6 +125,78 @@
    "alpha": false
   }
  },
+ "wind-gain": {
+  "hash": "494bedce2d76e6e3",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "wind-loss": {
+  "hash": "29a398ab1f22e0fe",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "wind-fame": {
+  "hash": "ad22386991e1e23f",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "wind-disgrace": {
+  "hash": "cf1a1e69792e86ea",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
  "lotus-1": {
   "hash": "0b4a58d6cda3d110",
   "widths": [
