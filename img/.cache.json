@@ -1,4 +1,194 @@
 {
+ "hero-back": {
+  "hash": "82d54e78f352d66c",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1024,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": false
+  }
+ },
+ "band-still": {
+  "hash": "f207c9b6b39dddbe",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1024,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": false
+  }
+ },
+ "band-ripple": {
+  "hash": "2fae8d57c81ecf22",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1024,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": false
+  }
+ },
+ "band-waves": {
+  "hash": "d864223a691bb50d",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1024,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": false
+  }
+ },
+ "band-storm": {
+  "hash": "fdab6fb4bfb02820",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1024,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": false
+  }
+ },
+ "fog-low": {
+  "hash": "1b3149cbef8ba617",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1024,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": false
+  }
+ },
+ "fog-high": {
+  "hash": "3da6fba795fe1ac2",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1024,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": false
+  }
+ },
+ "lotus-1": {
+  "hash": "0b4a58d6cda3d110",
+  "widths": [
+   480,
+   960
+  ],
+  "info": {
+   "w": 1024,
+   "h": 1536,
+   "widths": [
+    480,
+    960
+   ],
+   "alpha": false
+  }
+ },
+ "lotus-2": {
+  "hash": "8e05fb12c1dd67bf",
+  "widths": [
+   480,
+   960
+  ],
+  "info": {
+   "w": 1024,
+   "h": 1536,
+   "widths": [
+    480,
+    960
+   ],
+   "alpha": false
+  }
+ },
+ "lotus-3": {
+  "hash": "0c6c6f3f87504733",
+  "widths": [
+   480,
+   960
+  ],
+  "info": {
+   "w": 1024,
+   "h": 1536,
+   "widths": [
+    480,
+    960
+   ],
+   "alpha": false
+  }
+ },
+ "lotus-4": {
+  "hash": "318373596e4c430f",
+  "widths": [
+   480,
+   960
+  ],
+  "info": {
+   "w": 1024,
+   "h": 1536,
+   "widths": [
+    480,
+    960
+   ],
+   "alpha": false
+  }
+ },
  "poster-original": {
   "hash": "bd2d3c99ea1f64cd",
   "widths": [
