@@ -162,7 +162,7 @@
   }
  },
  "wind-fame": {
-  "hash": "ad22386991e1e23f",
+  "hash": "7d4bb937f0982ee3",
   "widths": [
    480,
    960,
@@ -180,7 +180,79 @@
   }
  },
  "wind-disgrace": {
-  "hash": "cf1a1e69792e86ea",
+  "hash": "8048c1861c94021f",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "wind-praise": {
+  "hash": "af3aca6341063ac1",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "wind-blame": {
+  "hash": "cf9cd1479eddacfe",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "wind-pleasure": {
+  "hash": "b3b94cbac203c194",
+  "widths": [
+   480,
+   960,
+   1536
+  ],
+  "info": {
+   "w": 1536,
+   "h": 1536,
+   "widths": [
+    480,
+    960,
+    1536
+   ],
+   "alpha": true
+  }
+ },
+ "wind-pain": {
+  "hash": "316d8078eebfc6a5",
   "widths": [
    480,
    960,
